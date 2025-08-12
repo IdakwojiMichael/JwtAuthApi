@@ -1,0 +1,11 @@
+﻿namespace JwtAuthApi.Models
+{
+    public class RegisterRequest
+    {
+        public string Username { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
+
+        // New: Role property
+        public string Role { get; set; } = "User"; // Default role is "User"
+    }
+}

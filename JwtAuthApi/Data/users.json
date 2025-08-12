@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "a45f2779-a341-42c7-8526-9427f0c95c6b",
+    "Username": "Michael",
+    "PasswordHash": "tfOC6mX71Uf0uPDjWZX7olkGbCzt9gs138/6NYyNA6k=",
+    "Role": "User"
+  },
+  {
+    "Id": "8b9da778-2891-470b-b8cb-f33f618b5b32",
+    "Username": "Enyo",
+    "PasswordHash": "eT7WWr3JEnjwzUdfQ30szm5Os8vr1dj/xboRMuQq4\u002BI=",
+    "Role": "Admin"
+  }
+]
